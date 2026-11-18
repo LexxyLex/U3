@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95764390137",
+    "project_id": "gymart-2deaa",
+    "storage_bucket": "gymart-2deaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95764390137:android:b7772775ae68e76332c228",
+        "android_client_info": {
+          "package_name": "com.example.actgymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95764390137-8dba0fogdctib2qvd2jlfnk99kbfukjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.actgymart",
+            "certificate_hash": "9b01aadfaddf05cc616da011b9fd1095bd52e650"
+          }
+        },
+        {
+          "client_id": "95764390137-f8h7upvrggdc2m9fojm93vbsdoj8iult.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7b9yikXgX38ojxVClfa6o7QXEGHiKEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95764390137-f8h7upvrggdc2m9fojm93vbsdoj8iult.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
